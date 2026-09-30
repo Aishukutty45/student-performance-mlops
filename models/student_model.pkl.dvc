@@ -1,0 +1,5 @@
+outs:
+- md5: 7cb534a148bfedd89ad340dab69375c2
+  size: 2037450
+  hash: md5
+  path: student_model.pkl
